@@ -1,0 +1,17 @@
+{
+  "name": "topshelfre",
+  "version": "1.0.0",
+  "description": "Dear enthusiastic candidate. Thank you for agreeing to take our assessment.",
+  "main": "NodeJS_.js",
+"scripts": {
+  "test": "jest"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
